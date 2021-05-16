@@ -34,7 +34,7 @@ function App() {
         <div className="btn-container">
           <button className="filter-btn" onClick={()=>pickBreakfast()}>Breakfast</button>
           <button className="filter-btn" onClick={()=>pickLunch()}>Lunch</button>
-          <button className="filter-btn" onClick={()=>pickShake()}>Shake</button>
+          <button className="filter-btn" onClick={()=>pickShake()}>Shakes</button>
         </div>
       </navbar>
       <div className="menu">
